@@ -11,6 +11,7 @@
 #' of the multivariate normal distribution density values at those points.
 #' @export
 #'
+#' @importFrom mvtnorm dmvnorm
 #'
 #' @examples
 #' matrice <- cbind(c(1,2), c(3,4))
