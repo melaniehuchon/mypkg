@@ -4,6 +4,8 @@
 # mypkg
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/melaniehuchon/mypkg/workflows/R-CMD-check/badge.svg)](https://github.com/melaniehuchon/mypkg/actions)
 <!-- badges: end -->
 
 The goal of mypkg is to test the R package development during the ISPED
@@ -45,7 +47,4 @@ mvnpdf(x = matrice, mean = mean, varcovM = varcov)
 #> 
 #> $y
 #> [1] -2.837877 -8.837877
-#> 
-#> attr(,"class")
-#> [1] "mvnpdf"
 ```

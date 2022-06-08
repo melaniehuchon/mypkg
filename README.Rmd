@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/melaniehuchon/mypkg/workflows/R-CMD-check/badge.svg)](https://github.com/melaniehuchon/mypkg/actions)
 <!-- badges: end -->
 
 The goal of mypkg is to test the R package development during the ISPED summer school.  
