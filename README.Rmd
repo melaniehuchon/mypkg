@@ -16,9 +16,14 @@ knitr::opts_chunk$set(
 # mypkg
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
+<<<<<<< HEAD
 The goal of mypkg is to test the R package development for ISPED summer school. 
+=======
+The goal of mypkg is to test the R package development during the Isped summer school.  
+>>>>>>> c8805c568e293ccbdea99fd502e62483c34962b9
 
 ## Installation
 
