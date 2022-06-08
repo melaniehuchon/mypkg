@@ -1,0 +1,48 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# mypkg
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of mypkg is to test the R package development. 
+
+## Installation
+
+You can install the development version of mypkg from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("melaniehuchon/mypkg")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(mypkg)
+## basic example code
+```
+
+What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+
+```{r example code}
+matrice <- cbind(c(1,2), c(3,4))
+mean <- c(1, 1)
+varcov <- diag(1, 2)
+mvnpdf(x = matrice, mean = mean, varcovM = varcov)
+```
