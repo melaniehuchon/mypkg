@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkg is to test the R package development.
+The goal of mypkg is to test the R package development during the Isped
+summer school.
 
 ## Installation
 
@@ -42,4 +43,7 @@ mvnpdf(x = matrice, mean = mean, varcovM = varcov)
 #> 
 #> $y
 #> [1] -2.837877 -8.837877
+#> 
+#> attr(,"class")
+#> [1] "mvnpdf"
 ```
