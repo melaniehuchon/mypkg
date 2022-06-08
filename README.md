@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkg is to test the R package development during the Isped
+The goal of mypkg is to test the R package development during the ISPED
 summer school.
 
 ## Installation
