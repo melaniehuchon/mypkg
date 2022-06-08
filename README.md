@@ -9,6 +9,8 @@
 The goal of mypkg is to test the R package development during the ISPED
 summer school.
 
+Iris made this change…
+
 ## Installation
 
 You can install the development version of mypkg from
@@ -43,4 +45,7 @@ mvnpdf(x = matrice, mean = mean, varcovM = varcov)
 #> 
 #> $y
 #> [1] -2.837877 -8.837877
+#> 
+#> attr(,"class")
+#> [1] "mvnpdf"
 ```

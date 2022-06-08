@@ -21,6 +21,8 @@ knitr::opts_chunk$set(
 
 The goal of mypkg is to test the R package development during the ISPED summer school.  
 
+Iris made this change...
+
 ## Installation
 
 You can install the development version of mypkg from [GitHub](https://github.com/) with:
